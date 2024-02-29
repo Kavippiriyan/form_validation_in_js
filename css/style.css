@@ -29,3 +29,14 @@ h1 {
     margin: 100px;
     border: 10px solid purple;
 }
+
+.inputgroup .error
+{
+    color: red;
+} 
+
+
+.inputgroup .success
+{
+    color: green;
+} 
